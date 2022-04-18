@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hadrienlicour@hotmail.com
+	name = Hadrien Dellicour
